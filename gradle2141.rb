@@ -2,7 +2,7 @@ class Gradle2141 < Formula
   desc "Gradle build automation tool"
   homepage "https://www.gradle.org/"
   url "https://downloads.gradle.org/distributions/gradle-2.14.1-bin.zip"
-  sha256 "a88db9c2f104defdaa8011c58cf6cda6c114298ae3695ecfb8beb30da3a903cb"
+  sha256 "cfc61eda71f2d12a572822644ce13d2919407595c2aec3e3566d2aab6f97ef39"
 
   bottle :unneeded
 
